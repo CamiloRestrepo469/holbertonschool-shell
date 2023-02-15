@@ -1,0 +1,16 @@
+total 56
+drwxr-xr-x 3 kres kres 4096 Feb 15 11:02 .
+drwxr-xr-x 5 kres kres 4096 Feb 15 09:22 ..
+drwxr-xr-x 7 kres kres 4096 Feb 15 10:33 .git
+-rwxr--r-- 1 kres kres   32 Feb 15 09:33 0-hello_world
+-rwxr--r-- 1 kres kres   28 Feb 15 09:43 1-confused_smiley
+-rwxr--r-- 1 kres kres   29 Feb 15 09:58 2-hellofile
+-rwxr--r-- 1 kres kres   40 Feb 15 10:06 3-twofiles
+-rwxr--r-- 1 kres kres   35 Feb 15 10:28 4-lastlines
+-rwxr--r-- 1 kres kres   35 Feb 15 10:33 5-firstlines
+-rwxr--r-- 1 kres kres   40 Feb 15 10:51 6-third_line
+-rwxr--r-- 1 kres kres   99 Feb 15 10:58 7-file
+-rwxr--r-- 1 kres kres   36 Feb 15 11:02 8-cwd_state
+-rw-r--r-- 1 kres kres   16 Feb 15 09:36 README.md
+-rw-r--r-- 1 kres kres   12 Feb 15 10:58 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 kres kres    0 Feb 15 11:02 ls_cwd_content
