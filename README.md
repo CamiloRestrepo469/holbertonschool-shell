@@ -22,6 +22,3 @@
 21 rev
 22 cut -d ":" -f1,6 /etc/passwd | sort
 23 find . -empty | rev | cut -d '/' -f 1 | reve
-24 
-25
-26
